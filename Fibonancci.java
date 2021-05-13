@@ -9,7 +9,7 @@ public class Fibonancci
 	 k=0;
 	 System.out.println("Enter any number");
 	 int n=sc.nextInt();
-	 System.out.print(" 1 1");
+	 System.out.print(" 1 1 ");
 	 while(k<=n)
 	 {
 	   k=a+b;
