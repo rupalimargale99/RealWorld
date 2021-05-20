@@ -1,0 +1,3 @@
+The readByte() method of DataInputStream class in Java is used to read and return one input byte. 
+The byte is a signed value in the range from -128 to +127. 
+The bytes in this method are read from the accommodated input stream.
